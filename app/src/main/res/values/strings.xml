@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ConstraintLayout</string>
+
+    <string name="main_header">ConstraintLayouts</string>
+    <string name="btn_blog_post">BLOG POST</string>
+    <string name="btn_serie">SÉRIE</string>
+    <string name="btn_concurso_textos">CONCURSO DE TEXTOS</string>
+
+    <string name="blog_header">Constraint Layout Atividade 1</string>
+    <string name="blog_title">Utilizando Imagens no Android</string>
+    <string name="blog_author">Emerson Carvalho</string>
+    <string name="blog_date">17/04/2029</string>
+    <string name="blog_body">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam accumsan porttitor diam nec faucibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque vel auctor quam. Etiam dictum rutrum lacus, in interdum odio posuere eu. Aliquam arcu dui, sagittis at ultricies vel, dictum non dolor. Aliquam tincidunt est at enim volutpat, vel aliquet velit rutrum. Aliquam tincidunt est at enim volutpat, vel aliquet velit rutrum. Aliquam tincidunt est at enim volutpat, vel aliquet velit rutrum. Aliquam tincidunt est at enim volutpat, vel aliquet velit rutrum.</string>
+    <string name="btn_anterior">ANTERIOR</string>
+    <string name="btn_proximo">PRÓXIMO</string>
+
+    <string name="serie_header">Netflix</string>
+    <string name="serie_name">Heartland</string>
+    <string name="serie_episode">T10:E08</string>
+    <string name="serie_time_start">20:00</string>
+    <string name="serie_time_end">40:00</string>
+
+    <string name="concurso_header">Constraint Layout Atividade 3</string>
+    <string name="concurso_title">Melhor Texto</string>
+    <string name="concurso_text_left">Morbi in ultrices orci, porttitor tempus ex. Etiam ac posuere est, vitae venenatis turpis. Curabitur nibh est, tempus non bibendum non, euismod vel lectus. Etiam vel accumsan ex, sit amet posuere diam. Aliquam posuere pretium tellus eget vestibulum. Nam aliquet et ligula a elementum. Etiam id mi ut ligula accumsan finibus. Praesent id mi tempus, maximus dui in, blandit quam. Etiam at ornare eros, vel consectetur nulla. Nam eget ipsum volutpat metus posuere pretium ac quis ipsum. Donec congue ligula non facilisis vulputate. Duis neque arcu, maximus a elementum porta, gravida dictum arcu.</string>
+    <string name="concurso_text_right">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam interdum a nunc quis condimentum. Fusce interdum ex sed egestas consequat. Nulla hendrerit gravida ultrices. Sed accumsan orci tristique, cursus est sed, porta ligula. Vestibulum sollicitudin dapibus mollis. Donec cursus nisl ut cursus lacinia. Nunc ornare, mauris id faucibus mollis, enim massa varius leo, sed feugiat mi diam sit amet lectus. Donec finibus tellus vestibulum, accumsan dolor fringilla, lacinia mauris. Vivamus ac nisl in nulla ornare egestas.</string>
+    <string name="btn_esquerda">ESQUERDA</string>
+    <string name="btn_empate">EMPATE</string>
+    <string name="btn_direita">DIREITA</string>
+</resources>

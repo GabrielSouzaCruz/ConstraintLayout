@@ -3,7 +3,7 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-Repositório destinado à entrega do Trabalho 01 da disciplina de **Programação para Dispositivos Móveis**, do Bacharelado em Sistemas de Informação (IFSULDEMINAS - Campus Machado).
+Repositório destinado à entrega do Trabalho 02 da disciplina de **Programação para Dispositivos Móveis**, do Bacharelado em Sistemas de Informação (IFSULDEMINAS - Campus Machado).
 
 ## 🎯 Objetivo do Projeto
 Desenvolver um aplicativo Android composto por múltiplas telas (Activities) para consolidar os conceitos de estruturação de interfaces usando o `ConstraintLayout` e navegação bidirecional e unidirecional no Android.
